@@ -1,3 +1,12 @@
+# --- CONFIG FILE ADDS FROM NATE --- #
+# --- This section has additional settings added by Nate --- #
+
+# --- Moving blog posts off of the homepage and into a "blog" page ---#
+paginate_path: "/blog/page:num/"
+
+# --- END CONFIG FILE ADDS FROM NATE --- #
+
+
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
@@ -17,6 +26,7 @@ navbar-links:
   About: "aboutme"
   Graphics: "graphics"
   Writing: "writing"
+  Blog: "blog"
 
    # Resources:
    #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -234,4 +244,6 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
 
