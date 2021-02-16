@@ -9,21 +9,30 @@ Must edit the config file to enable the site-css setting*/
 
 .myGallery {
   display: grid;
-  grid-gap: 10px;
+  grid-gap: 15px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+
 }
 
 .myGallery img {
   width: 100%;
+  border: 1.5px solid #d3d3d3;
+
+}
+
+.myGallery img:hover {
+  border: 1.5px solid black;
 }
 
 .myGallery .item {
   position: relative;
   overflow: hidden;
+
 }
 
 .myGallery .item img {
   vertical-align: middle;
+
 }
 
 .myGallery .caption {
