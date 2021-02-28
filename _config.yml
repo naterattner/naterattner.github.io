@@ -23,16 +23,17 @@ author: Nate Rattner
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
-  Graphics: "graphics"
-  Writing: "writing"
+  # About: "aboutme"
+  # Graphics: "graphics"
+  # Writing: "writing"
   Blog: "blog"
 
    # Resources:
    #  - Beautiful Jekyll: "https://beautifuljekyll.com"
    #  - Learn markdown: "https://www.markdowntutorial.com/" 
 
-  Home: "naterattner.github.io"
+  # Home: "naterattner.github.io"
+  Home: "index.html"
 
 # --- Logo --- #
 
