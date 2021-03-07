@@ -147,7 +147,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  font-size: 1.225rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -177,7 +177,7 @@ img {
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: uppercase;
-  font-size: 0.9125rem;
+  font-size: 1.025rem;
   letter-spacing: 0.0625rem;
 }
 
