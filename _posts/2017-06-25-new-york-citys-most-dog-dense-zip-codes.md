@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New York City’s most dog-dense ZIP Codes
-subtitle: 
+subtitle: Some New Yorkers are disproportionately surrounded by four-legged neighbors
 cover-img: 
 thumbnail-img: 
 share-img: 
