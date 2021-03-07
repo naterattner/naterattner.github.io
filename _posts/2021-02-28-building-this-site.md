@@ -17,6 +17,6 @@ With the [Lightbox](https://lokeshdhakar.com/projects/lightbox2/){:target="_blan
 
 ![Crepe](/assets/img/posts/2021-02-28/img_grid.png){: .mx-auto.d-block :}
 
-I also moved the blog off of the homepage, cleaned up some extraneous pages, and customized the CSS styling. 
+I also reconfigured the site structure a bit, customized the CSS styling, and moved over some blog posts I had published on Medium over the past few years.
 
-Looking back, since I'm confortable with a bit of basic web development, I wish I had stopped searching for themes once I found something in the ballpark of what I was looking for and then focused on building in customization from there. I spent as much time looking for the perfect template as it took to implement the features I wanted on top of a basic template.
+In hindsight, since I'm confortable with a bit of basic web development, I wish I had stopped searching for Jekyll themes once I found something in the ballpark of what I was looking for and then focused on building in customization from there. I spent as much time looking for the perfect template as it took to implement the features I wanted on top of a basic template.
