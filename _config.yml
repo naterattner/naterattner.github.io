@@ -147,7 +147,7 @@ site-css:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-N8KGZ2RW0Q"
 
 # Google Tag Manager ID
 #gtm: ""
