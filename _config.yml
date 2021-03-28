@@ -15,7 +15,7 @@ paginate_path: "/blog/page:num/"
 # --- Required options --- #
 
 # Name of website
-title: Nate Rattner
+title: Nate Rattner | Data & Graphics Journalist
 
 # Your name to show in the footer
 author: Nate Rattner
@@ -106,7 +106,7 @@ feed_show_excerpt: true
 feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "data journalist,data reporter,data visualization,graphics reporter,data visualization developer,CNBC"
 
 # --- Colours / background image --- #
 
