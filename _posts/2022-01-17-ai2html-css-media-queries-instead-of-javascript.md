@@ -4,7 +4,7 @@ title: Responsive graphics with ai2html and CSS media queries (instead of JavaSc
 subtitle: An alternative for when the documentation's resizer script doesn’t play nicely with your website
 cover-img: 
 thumbnail-img: 
-share-img: 
+share-img: /assets/img/posts/2022-01-17/three_images_stacked.png
 tags: 
 comments: false
 ---
