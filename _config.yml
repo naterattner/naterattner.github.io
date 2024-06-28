@@ -26,7 +26,7 @@ navbar-links:
   # About: "aboutme"
   # Graphics: "graphics"
   # Writing: "writing"
-  Blog: "blog"
+  # Blog: "blog"
 
    # Resources:
    #  - Beautiful Jekyll: "https://beautifuljekyll.com"
