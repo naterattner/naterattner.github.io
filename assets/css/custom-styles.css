@@ -5,6 +5,13 @@ layout: null
 /*CSS that overrides the Beautiful Jekyll CSS as noted here: https://beautifuljekyll.com/faq/#feed-page
 Must edit the config file to enable the site-css setting*/
 
+/* media queries */
+@media (min-width: 992px) {
+  .container, .container-lg, .container-md, .container-sm {
+      max-width: 1260px;
+  }
+}
+
 /* Hide nav bar */
 body .navbar {
   visibility: hidden;
@@ -16,30 +23,82 @@ body .intro-header {
 
 /* Site-wide font styles */
 .intro-header .page-heading h1 {
-  font-size: 2.125rem;
+  font-size: 2rem;
 }
 
-.container-md h1, .container-md h3 {
+h3 {
   font-weight: 500;
 }
 
 .container-md .about-block p {
   margin: 0;
+  font-size: 18px;
 }
 
 .container-md .about-block .contact-info {
-  font-size: 1.05rem;
+  /* font-size: 1.05rem; */
+  font-size: 15px;
   margin-top: 15px;
-  color:#666666;
+  /* color:#666666; */
 }
 
 .container-md .about-block .contact-info a {
-  color:#666666;
+  /* color:#666666; */
 }
 
 .about-block {
   font-weight: 300;
 }
+
+.about-block a, .portfolio-section a {
+  font-weight:500;
+  color: #171717;
+}
+
+/*Styles for recent work image grid on homepage*/
+.portfolio-section {
+  /* padding: 20px; */
+  /* text-align: center; */
+  margin-top:25px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  margin-top:25px;
+  /* padding: 20px; */
+}
+
+.grid-item {
+  overflow: hidden;
+  /* transition: transform 0.3s; */
+}
+
+.grid-item:hover {
+  /* transform: scale(1.05); */
+}
+
+.grid-item img {
+  width: 100%;
+  height: 250px; /*  Adjusted for better aspect ratio */
+  object-fit: cover;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  padding:8px;
+  box-shadow: 2px 3px 5px #f0f0f0;
+}
+
+.project-label {
+  padding: 10px 0;
+  font-weight: 500;
+  /* background-color: #f4f4f4; */
+  margin-top: 5px;
+  /* color:#666666; */
+  font-size: 15px;
+}
+
+
 
 /*Styles for image grid on homepage*/
 
