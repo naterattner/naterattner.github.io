@@ -50,7 +50,11 @@ h3 {
   font-weight: 300;
 }
 
-.about-block a, .portfolio-section a {
+.about-block a {
+  color: #404040;
+}
+
+.portfolio-section a {
   font-weight:500;
   color: #171717;
 }
