@@ -2,7 +2,7 @@ const projects = [
   {
     title: "See How SpaceX Is About to Eclipse Every Other Blockbuster IPO",
     url: "https://www.wsj.com/tech/spacex-ipo-charts-graphs-9144ec5e?st=aohvug&reflink=desktopwebshare_permalink",
-    image: "spacex_ipo.gif",
+    image: "spacex_ipo.png",
     source: "The Wall Street Journal"
   },
   {
