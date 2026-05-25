@@ -1,5 +1,11 @@
 const projects = [
   {
+    title: "See How SpaceX Is About to Eclipse Every Other Blockbuster IPO",
+    url: "https://www.wsj.com/tech/spacex-ipo-charts-graphs-9144ec5e?st=aohvug&reflink=desktopwebshare_permalink",
+    image: "spacex_ipo.gif",
+    source: "The Wall Street Journal"
+  },
+  {
     title: "Detroit Automakers Take $50 Billion Hit as EV Bubble Bursts",
     url: "https://www.wsj.com/business/autos/detroit-automakers-take-50-billion-hit-as-ev-bubble-bursts-06a97414",
     image: "evpullback.png",
